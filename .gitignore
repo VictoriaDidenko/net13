@@ -1,0 +1,10 @@
+/myproject/ipch
+/myproject/*.sdf
+/myproject/*.sln
+/myproject/*.suo
+
+/myproject/myproject/*.user
+
+/myproject/myproject/*.vcxproj
+
+/myproject/myproject/*.filters
